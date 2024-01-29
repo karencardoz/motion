@@ -1,3 +1,3 @@
 # Learnings
-Using external JS library ~ Popmotion
-Building projects using Parcel
+- Using external JS library ~ Popmotion
+- Building projects using Parcel
